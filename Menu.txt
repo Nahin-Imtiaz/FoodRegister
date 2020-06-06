@@ -1,0 +1,24 @@
+Big Mac,540,4.29,0
+Two Cheeseburgers,600,2.28,0
+Quarter Pounder with Cheese,540,4.29,0
+Double Quarter Pounder with Cheese,780,5.29,0
+Buttermilk Crispy Chicken,580,5.09,0
+Artisan Grilled Chicken,360,4.99,0
+Chicken Mcnuggets,470,4.79,0
+Filet-O-Fish,390,3.99,0
+Bacon Clubhouse Burger,740,5.09,0
+Chicken Bacon Clubhouse Grilled,610,4.89,0
+Premium McWrap Chicken & Bacon,480,4.39,0
+Fries,230,1.49,0
+Side Salad,15,1.69,0
+Soft Drink,160,1.19,1
+Iced Tea,0,1.19,1
+McFlurry,510,2.39,1
+Sundae,330,1.29,1
+McCafé Chocolate Shake,560,2.19,1
+McCafé Strawberry Shake,550,2.19,1
+McCafé Vanilla Shake,530,2.19,1
+Smoothies,210,2.49,1
+Frappe,450,2.39,1
+Mocha,340,2.49,1
+Latte,270,2.49,1
